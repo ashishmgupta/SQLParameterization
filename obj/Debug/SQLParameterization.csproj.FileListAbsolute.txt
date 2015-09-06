@@ -1,0 +1,8 @@
+C:\Ashish\Research\SQLParameterization\SQLParameterization\bin\Debug\SQLParameterization.exe.config
+C:\Ashish\Research\SQLParameterization\SQLParameterization\bin\Debug\SQLParameterization.exe
+C:\Ashish\Research\SQLParameterization\SQLParameterization\bin\Debug\SQLParameterization.pdb
+C:\Ashish\Research\SQLParameterization\SQLParameterization\obj\Debug\SQLParameterization.csprojResolveAssemblyReference.cache
+C:\Ashish\Research\SQLParameterization\SQLParameterization\obj\Debug\SQLParameterization.exe
+C:\Ashish\Research\SQLParameterization\SQLParameterization\obj\Debug\SQLParameterization.pdb
+C:\Ashish\Research\SQLParameterization\SQLParameterization\bin\Debug\lib.dll
+C:\Ashish\Research\SQLParameterization\SQLParameterization\bin\Debug\lib.pdb
